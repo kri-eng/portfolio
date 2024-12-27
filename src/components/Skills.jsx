@@ -13,6 +13,7 @@ const Skills = () => {
               <ul className="list-disc list-inside text-lg text-gray-800">
                 <li className="mb-2">Python</li>
                 <li className="mb-2">C++</li>
+                <li className="mb-2">Java</li>
                 <li className="mb-2">JavaScript</li>
                 <li className="mb-2">Swift</li>
                 <li>SQL</li>
@@ -23,10 +24,9 @@ const Skills = () => {
               <h4 className="text-xl font-semibold mb-2 text-gray-800">Web Development</h4>
               <ul className="list-disc list-inside text-lg text-gray-800">
                 <li className="mb-2">React</li>
-                <li className="mb-2">Tailwind CSS</li>
+                <li className="mb-2">CSS</li>
                 <li className="mb-2">HTML</li>
                 <li className="mb-2">Node.js</li>
-                <li className="mb-2">Express</li>
                 <li className="mb-2">Flask</li>
                 <li className="mb-2">HTTP Protocol</li>
               </ul>
@@ -38,12 +38,12 @@ const Skills = () => {
               <ul className="list-disc list-inside text-lg text-gray-800">
                 <li className="mb-2">MySQL</li>
                 <li className="mb-2">Azure SQL</li>
-                <li className="mb-2">Firestore</li>
+                <li className="mb-2">Google Firestore</li>
                 <li>MongoDB</li>
               </ul>
               <h4 className="text-xl font-semibold mb-2 text-gray-800 mt-4">Cloud Technologies</h4>
               <ul className="list-disc list-inside text-lg text-gray-800">
-                <li>AWS (EC2, S3)</li>
+                <li>AWS (EC2, S3, CLI, ELB, etc.)</li>
               </ul>
             </div>
             <div className="flex-1 p-6 bg-gray-100 rounded-lg shadow-md">
